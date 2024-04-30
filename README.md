@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gautamelon@gmail.com**
 
-- ⚡ Fun fact **I Think I Want kali Linkux Than Buggy Windows OS**
+- ⚡ Fun fact **I think I want Kali Linux rather Than Buggy Windows OS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
