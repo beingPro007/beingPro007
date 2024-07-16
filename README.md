@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-rana-rdx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-rana-rdx/" height="30" width="40" /></a>
 <a href="https://instagram.com/rdxcreateit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rdxcreateit" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/RDxtreme0067/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rdxtreme0067/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gautam_rana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gautam_rana/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/gautam_rana/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gautam_rana/" height="30" width="40" /></a>
 </p>
 
 ![](https://leetcard.jacoblin.cool/rdxtreme0067?ext=heatmap)
