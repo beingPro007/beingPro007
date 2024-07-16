@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beingpro007" alt="beingpro007" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Website**
+- 🔭 I’m currently working on **YouTube Backend Project from Chai aur code** And **Data Structures and Algorithms** With over 100+ problems...
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Mongo DB agreegation Pipelines**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingPro007](https://github.com/beingPro007)
 
-- 💬 Ask me about **Linux,React,Next Js**
+- 💬 Ask me about **Linux,React,Next Js,Basics of Mongo DB**
 
 - 📫 How to reach me **gautamelon@gmail.com**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-rana-rdx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-rana-rdx/" height="30" width="40" /></a>
 <a href="https://instagram.com/rdxcreateit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rdxcreateit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rdxtreme0067/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rdxtreme0067/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/Rdxtreme0067/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rdxtreme0067/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gautam_rana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gautam_rana/" height="30" width="40" /></a>
 </p>
 
