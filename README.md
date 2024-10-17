@@ -25,9 +25,7 @@
 <a href="https://www.geeksforgeeks.org/user/gautam_rana/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gautam_rana/" height="30" width="40" /></a>
 </p>
 
-![](https://leetcard.jacoblin.cool/rdxtreme0067?ext=heatmap)
-
-[![An image of @beingpro007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beingpro007)](https://holopin.io/@beingpro007
+[![An image of @beingpro007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beingpro007)](https://holopin.io/@beingpro007)
 
 
 <h3 align="left">Languages and Tools:</h3>
