@@ -24,7 +24,7 @@ jobs:
         run: pip install datetime
 
       - name: Run script to update README
-        run: python update_readme.py
+        run: python age.py
         env:
           TZ: Asia/Kolkata # Set timezone for the action runner
 
