@@ -13,11 +13,9 @@ def update_readme():
     with open('README.md', 'r') as file:
         content = file.read()
 
-    # Get current time and format it
     now = datetime.now()
     current_time_str = now.strftime("%I:%M %p")
 
-    # Calculate age
     age = calculate_age(BIRTH_DATE)
 
     updated_content = re.sub(
