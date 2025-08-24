@@ -19,8 +19,8 @@
           ^~ ~ ~ ~ ~ ~ ^~ ~ ~ ~ ~ ~ ^~ ~ ~ ~ ~ ~^
 
 ..---..__..---..__..---..__..---..__..---..__
-   Name: Gautam Rana | Time: 09:00 AM
-   "Overclocking the Brilliance, currently at 22 MHz\n""
+   Name: Gautam Rana | Time: 07:17 AM
+   "Overclocking the Brilliance, currently at 21 MHz\n""
 ..---..__..---..__..---..__..---..__..---..__
 
 ```
